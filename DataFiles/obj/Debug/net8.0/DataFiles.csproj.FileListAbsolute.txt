@@ -1,0 +1,14 @@
+C:\Users\Nazario\source\repos\DataFiles\DataFiles\bin\Debug\net8.0\DataFiles.exe
+C:\Users\Nazario\source\repos\DataFiles\DataFiles\bin\Debug\net8.0\DataFiles.deps.json
+C:\Users\Nazario\source\repos\DataFiles\DataFiles\bin\Debug\net8.0\DataFiles.runtimeconfig.json
+C:\Users\Nazario\source\repos\DataFiles\DataFiles\bin\Debug\net8.0\DataFiles.dll
+C:\Users\Nazario\source\repos\DataFiles\DataFiles\bin\Debug\net8.0\DataFiles.pdb
+C:\Users\Nazario\source\repos\DataFiles\DataFiles\obj\Debug\net8.0\DataFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nazario\source\repos\DataFiles\DataFiles\obj\Debug\net8.0\DataFiles.AssemblyInfoInputs.cache
+C:\Users\Nazario\source\repos\DataFiles\DataFiles\obj\Debug\net8.0\DataFiles.AssemblyInfo.cs
+C:\Users\Nazario\source\repos\DataFiles\DataFiles\obj\Debug\net8.0\DataFiles.csproj.CoreCompileInputs.cache
+C:\Users\Nazario\source\repos\DataFiles\DataFiles\obj\Debug\net8.0\DataFiles.dll
+C:\Users\Nazario\source\repos\DataFiles\DataFiles\obj\Debug\net8.0\refint\DataFiles.dll
+C:\Users\Nazario\source\repos\DataFiles\DataFiles\obj\Debug\net8.0\DataFiles.pdb
+C:\Users\Nazario\source\repos\DataFiles\DataFiles\obj\Debug\net8.0\DataFiles.genruntimeconfig.cache
+C:\Users\Nazario\source\repos\DataFiles\DataFiles\obj\Debug\net8.0\ref\DataFiles.dll
